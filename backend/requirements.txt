@@ -1,0 +1,10 @@
+fastapi[all]
+uvicorn
+pandas
+numpy
+yfinance
+fredapi
+python-dotenv
+arch
+aiofiles
+aioredis
