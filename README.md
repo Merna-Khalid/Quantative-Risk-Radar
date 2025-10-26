@@ -1,6 +1,6 @@
-# Quantitative Risk Rotator (QRR)
+# Quantitative Risk Radaar (QRR)
 
-The **Quantitative Risk Rotator (QRR)** is a **data-driven risk monitoring framework** for systemic risk detection and financial regime analysis. QRR moves beyond static financial ratios and uses dynamic modeling to identify when markets enter high-risk or crisis regimes.
+The **Quantitative Risk Radar (QRR)** is a **data-driven risk monitoring framework** for systemic risk detection and financial regime analysis. QRR moves beyond static financial ratios and uses dynamic modeling to identify when markets enter high-risk or crisis regimes.
 
 It continuously tracks **cross-sector co-movement**, **volatility spillovers**, and **credit stress**, then aggregates these signals into a composite systemic risk index, providing a comprehensive view of market stress.
 
